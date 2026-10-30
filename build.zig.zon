@@ -1,0 +1,12 @@
+.{
+    .name = .esp,
+    .version = "0.1.0",
+    .fingerprint = 0xe54a8bd02ec1290c,
+    .minimum_zig_version = "0.16.0",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "sdk",
+        "src",
+    },
+}
